@@ -60,24 +60,7 @@ html {
 }
 
 .flex-container {
-  display: header;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
-.flex-container {
-  display: col-3 menu;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
-
-.flex-container {
-  display: col-6;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
-
-.flex-container {
-  display: aside;
+  display: flex;
   flex-direction: column;
   flex-wrap: wrap;
 }
