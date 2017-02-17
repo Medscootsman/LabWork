@@ -61,6 +61,7 @@ html {
 
 .flex-container {
   display: flex;
+  display: -webkit-flex;
   flex-direction: column;
   flex-wrap: wrap;
 }
