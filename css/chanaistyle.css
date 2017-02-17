@@ -64,3 +64,20 @@ html {
   flex-direction: column;
   flex-wrap: wrap;
 }
+.flex-container {
+  display: col-3 menu;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.flex-container {
+  display: col-6;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.flex-container {
+  display: aside;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
